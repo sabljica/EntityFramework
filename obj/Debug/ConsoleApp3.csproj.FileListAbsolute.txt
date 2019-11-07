@@ -1,0 +1,11 @@
+C:\Users\Sabljica\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Sabljica\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Sabljica\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Sabljica\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Sabljica\source\repos\ConsoleApp3\bin\Debug\EntityFramework.dll
+C:\Users\Sabljica\source\repos\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sabljica\source\repos\ConsoleApp3\bin\Debug\EntityFramework.xml
+C:\Users\Sabljica\source\repos\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sabljica\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\Sabljica\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Sabljica\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
